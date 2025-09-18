@@ -37,4 +37,5 @@ for (let i = 0; i< 5; i++){
 for (let i = 0; i < 5; i++){
 
     console.log('Status ' + lista_alunos[i] + ": " + resultado[i] + '\tMedia: ' + String(medias[i]))
+    
 }
